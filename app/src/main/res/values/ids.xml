@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="slidable_panel" type="id" />
+    <item name="slidable_content" type="id" />
+    <item name="img_tag" type="id" />
+    <item name="drag_ban_tag" type="id" />
+    <item name="iv_play_button" type="id" />
+    <item name="refresh_head" type="id"/>
+</resources>
